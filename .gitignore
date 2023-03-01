@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/source-code/bin/Debug
+/source-code/.vs/D365-UpdateAnyEntity
+/source-code/D365-UpdateAnyEntity.Test/bin
+/source-code/D365-UpdateAnyEntity.Test/obj/Debug
+/source-code/D365-UpdateAnyEntity.Test/spkl
+/source-code/packages
+/source-code/obj/Debug
+/source-code/D365-UpdateAnyEntity.Test/_EarlyBoundTypes.cs
