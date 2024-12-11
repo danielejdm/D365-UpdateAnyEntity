@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("adesso AG")]
 [assembly: AssemblyProduct("D365-UpdateAnyEntity")]
-[assembly: AssemblyCopyright("Copyright © adesso AG 2023")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
